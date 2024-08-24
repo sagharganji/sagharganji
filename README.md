@@ -13,6 +13,7 @@ I specialize in Python, SQL, and deep learning frameworks like TensorFlow and Py
 ## 👥 Open Source Contributions & Freelance Projects:
 - **Pathrise Project:** Developed predictive models to enhance job placement strategies with a 95% accuracy rate. [Pathrise Project Repo](https://github.com/sagharganji/Pathrise_Project)
 - **Salary Prediction Model:** Built models predicting salaries and job satisfaction, empowering professionals with negotiation tools. [Salary Prediction Repo](https://github.com/sagharganji/Salary_Prediction_Project)
+- **Applied Data Science Capstone (Coursera):** Completed a comprehensive capstone project focused on advanced data science techniques, including exploratory data analysis, predictive modeling, and data-driven insights. [View Repository](https://github.com/sagharganji/Applied_Data_Science_Capstone) | [Learn More About the Course](https://www.coursera.org/learn/applied-data-science-capstone)
 
 ## 🚀 Continuous Learning & Growth:
 I believe in embracing challenges as opportunities for innovation and growth. Whether it's refining models, exploring the latest in deep learning, or collaborating on open-source projects, I’m always looking to push the boundaries of what data can achieve.
