@@ -1,31 +1,83 @@
-## 👩‍💻 Data Scientist | Leveraging Insights for Impact | Python, SQL, Machine Learning Enthusiast
+# 👋 Hi, I'm Saghar Ganji  
 
-Hello, data enthusiasts and tech innovators! 🙌 I'm Saghar Ganji, a results-driven Data Scientist with a strong foundation in business data analysis and a passion for transforming data into actionable strategies. With hands-on experience in predictive modeling, machine learning, and data visualization, I thrive at the intersection of technology and business growth.
-
-## 🛠️ Tech Stack & Expertise:
-I specialize in Python, SQL, and deep learning frameworks like TensorFlow and PyTorch. My expertise spans across creating scalable machine learning models, extracting valuable insights from data, and driving data-driven decision-making through powerful visualizations using tools like Power BI and Tableau.
-
-## 🔍 Key Skills:
-- **Machine Learning & AI:** Linear Regression, Logistic Regression, Decision Trees, SVM, KNN, Random Forests, Clustering, Neural Networks.
-- **Data Science Mastery:** Data wrangling with Pandas and NumPy, seamless cloud integration with AWS, and advanced statistical analysis.
-- **Visualization & BI Tools:** Crafting intuitive and impactful dashboards with Power BI, Tableau, Matplotlib, and Seaborn.
-
-## 👥 Open Source Contributions & Freelance Projects:
-- **Pathrise Project:** Developed predictive models to enhance job placement strategies with a 95% accuracy rate. [Pathrise Project Repo](https://github.com/sagharganji/Pathrise_Project)
-- **Salary Prediction Model:** Built models predicting salaries and job satisfaction, empowering professionals with negotiation tools. [Salary Prediction Repo](https://github.com/sagharganji/Salary_Prediction_Project)
-- **Applied Data Science Capstone (Coursera):** Completed a comprehensive capstone project focused on advanced data science techniques, including exploratory data analysis, predictive modeling, and data-driven insights. [View Repository](https://github.com/sagharganji/Applied_Data_Science_Capstone) | [Learn More About the Course](https://www.coursera.org/learn/applied-data-science-capstone)
-
-## 🚀 Continuous Learning & Growth:
-I believe in embracing challenges as opportunities for innovation and growth. Whether it's refining models, exploring the latest in deep learning, or collaborating on open-source projects, I’m always looking to push the boundaries of what data can achieve.
-
-## 🤝 Let's Connect and Collaborate!
-I'm open to exciting opportunities in Data Science, Machine Learning, and AI projects. Whether you're looking for a consultant, collaborator, or just a fellow data enthusiast to geek out with, let's connect and make data-driven magic happen! 🌐
+🎓 **Computer Engineering Student** at Shiraz University of Technology  
+📊 **Data Scientist & Researcher** | Machine Learning • Deep Learning • Time Series Forecasting • Graph Neural Networks  
+🌍 Focused on **Climate Change Modeling** and **AI for Environmental Forecasting**  
 
 ---
 
-Feel free to explore my repositories, drop a star, and let's dive into the world of data together! 💻✨
+## 🔬 Research & Publications  
+
+- **Leveraging GNN to Enhance MEF Method in Predicting ENSO**  
+  *arXiv preprint (2025)*  
+
+- **Distillation of CNN Ensemble Results for Enhanced Long-Term Prediction of the ENSO Phenomenon**  
+  *arXiv preprint (2025)*  
+
+- **Novel Insights in Deep Learning for Predicting Climate Phenomena**  
+  *ICCK 2024 – International Conference on Computer and Knowledge Engineering*  
+
+- **Metrics Matters: A Deep Assessment of Deep Learning CNN Method for ENSO Forecast**  
+  *Frontiers in Marine Science (2024)*  
 
 ---
 
-**#DataScientist #MachineLearning #Python #SQL #DataScience #DeepLearning #AI #OpenSource #DataInnovation**
+## 📂 Featured Projects  
 
+### 📌 Academic & Research Projects  
+
+- [**Salary_Prediction_Project**](https://github.com/sagharganji/Salary_Prediction_Project)  
+  → Predicting salaries using ML models.  
+
+- [**Pathrise_Project**](https://github.com/sagharganji/Pathrise_Project)  
+  → Data-driven insights for career growth.  
+
+- [**Applied_Data_Science_Capstone**](https://github.com/sagharganji/Applied_Data_Science_Capstone)  
+  → IBM Data Science Capstone Project.  
+
+- **Air Quality Forecasting with GNN-LSTM (University Project)** *(In Progress)*  
+  → Developing a hybrid **Graph Neural Network (GNN) + LSTM** model to forecast air pollutants (*PM2.5, PM10, NO₂, O₃*) across a network of monitoring stations.  
+  - **Graph Construction**: Nodes = stations; Edges = spatial proximity, wind influence, or signal similarity.  
+  - **Spatial Dependency Modeling**: GNN extracts inter-station relationships.  
+  - **Temporal Dynamics**: LSTM/Seq2Seq captures pollutant evolution over time.  
+  - **Goal**: Provide accurate short- and mid-term air quality forecasts for environmental monitoring & decision-making.  
+
+---
+
+### 📌 Learning & Coursework  
+
+- [**DeepLearning.AI-Deep-Learning-Specialization**](https://github.com/sagharganji/DeepLearning.AI-Deep-Learning-Specialization)  
+  Completed **DeepLearning.AI Specialization (Andrew Ng)** covering:  
+  - Neural Networks & Deep Learning  
+  - Improving Deep Neural Networks  
+  - Structuring ML Projects  
+  - **Convolutional Neural Networks**  
+  - Sequence Models  
+
+- [**Coursera-Advanced-Data-Visualization-with-Tableau**](https://github.com/sagharganji/Coursera-Advanced-Data-Visualization-with-Tableau)  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Languages**: Python, SQL, MATLAB  
+- **ML/DL Frameworks**: TensorFlow, Keras, PyTorch, Scikit-learn  
+- **Data Tools**: Pandas, NumPy, Matplotlib, Tableau  
+- **Other**: Git, Jupyter Notebooks, Docker (basic)  
+
+---
+
+## 📈 GitHub Stats  
+
+![Saghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sagharganji&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagharganji&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect with Me  
+
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saghar-ganji)  
+- 📧 [Email](mailto:sagharganji82@gmail.com)  
+
+---
