@@ -142,18 +142,6 @@ Pandas · NumPy · Matplotlib · Tableau · Jupyter Notebook · APIs · Web Scra
 
 ---
 
-## GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sagharganji&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagharganji&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ## Current Work
 
 - Improving selected ML repositories with cleaner documentation and reproducible experiments
